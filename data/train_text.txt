@@ -1,0 +1,100 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf500
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\csgray\c0;}
+\margl1440\margr1440\vieww5940\viewh14900\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Text \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f1\fs22 \cf2 \CocoaLigature0 r1_0_4_6 zero four six\
+r1_0_4_9 zero four nine\
+r1_0_5_6 zero five six\
+r1_0_6_1 zero six one\
+r1_0_6_9 zero six nine\
+r1_0_7_4 zero seven four\
+r1_0_7_8 zero seven eight\
+r1_0_8_3 zero eight three \
+r1_0_8_5 zero five eight\
+r1_0_8_8 zero eight eight \
+r2_1_4_6 one four six \
+r2_1_5_0 one five zero\
+r2_1_5_2 one five two\
+r2_1_5_4 one five four\
+r2_1_6_3 one six three\
+r2_1_9_0 one nine zero \
+r2_2_2_2 two two two\
+r2_2_4_9 two four nine\
+r2_2_6_1 two six one\
+r2_2_7_2 two seven two\
+r3_2_9_7 two nine seven\
+r3_2_9_8 two nine eight\
+r3_3_3_3 three three three\
+r3_3_9_0 three nine zero\
+r3_4_5_0 four five zero\
+r3_4_7_1 four seven one\
+r3_4_8_0 four eight zero\
+r3_4_8_3 four eight three\
+r3_5_0_5 five zero five\
+r3_5_0_7 five zero seven\
+r4_5_1_0 five one zero\
+r4_5_1_6 five one six\
+r4_5_5_0 five five zero \
+r4_5_6_0 five six zero\
+r4_5_7_0 five seven zero\
+r4_5_7_3 five seven three\
+r4_5_7_7 five seven seven\
+r4_5_8_1 five eight one\
+r4_5_8_9 five eight nine\
+f4_5_9_6 five nine six\
+r5_6_0_3 six zero three\
+r5_6_0_6 six zero six\
+r5_6_1_2 six one two\
+r5_6_1_3 six one three\
+r5_6_2_1 six two one\
+r5_6_4_2 six four two\
+r5_6_4_3 six four three\
+r5_6_5_1 six five one\
+r5_6_5_3 six five three\
+r5_6_5_8 six five eight\
+r6_6_5_9 six five nine\
+r6_6_7_5 six seven five\
+r6_6_8_5 six eight five\
+r6_6_8_7 six eight seven\
+r6_6_8_9 six eight nine\
+r6_6_9_0 six nine zero\
+r6_6_9_1 six nine one\
+r6_7_1_3 seven one three\
+r6_7_3_0 seven one three\
+r6_7_4_2 seven four two\
+r7_7_4_5 seven four five\
+r7_7_5_4 seven five four\
+r7_7_6_7 seven six seven\
+r7_7_8_6 seven eight six\
+r7_7_9_0 seven nine zero\
+r7_7_9_4 seven nine four\
+r7_8_0_9 eight zero nine\
+r7_8_1_5 eight one five \
+r7_8_2_8 eight two eight \
+r7_8_4_0 eight four zero\
+r8_8_5_7 eight five seven\
+r8_8_6_8 eight six eight\
+r8_8_6_9 eight six nine\
+r8_8_7_6 eight seven six\
+r8_8_8_4 eight eight four\
+r8_9_0_5 nine zero five\
+r8_9_0_6 nine zero six\
+r8_9_0_9 nine zero nine\
+r8_9_1_2 nine one two\
+r8_9_3_5 nine three five\
+r9_9_4_9 nine four nine\
+r9_9_5_7 nine five seven \
+r9_9_6_2 nine six two\
+r9_9_6_4 nine six four\
+r9_9_6_5 nine six five\
+r9_9_7_9 nine seven nine\
+r9_9_8_0 nine eight zero\
+r9_9_8_1 nine eight one\
+r9_9_8_5 nine eight five}
